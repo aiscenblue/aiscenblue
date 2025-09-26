@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Python application that allows to chat using windows terminal
-- 🌱 I’m currently learning golang as a backend alternative
+- 🔭 I’m currently working on a website that extracts color palette based on an image [colorsnap.art](https://colorsnaps.art/about)
+- 🌱 I’m currently learning golang as a backend alternative, and also a fan with kotlin and typescript. At the end of the day, I can use any programming language if necessary to create better solutions
 - 👯 I’m looking to collaborate on likeminded people who wants to improve and follow their curiousity on how to make a better developer
 - 💬 I write articles in [medium](https://medium.com/@aiscenblue) and also published some of my articles in [The Startup](https://medium.com/swlh/javascript-primitive-vs-reference-values-2836e8bb1c5d) and [Geek Culture](https://medium.com/geekculture/authentication-and-authorization-a5a2eafdde16)
 - 📫 How to reach me at aiscenblue@gmail.com or jeffrey.marvin.forones@gmail.com
